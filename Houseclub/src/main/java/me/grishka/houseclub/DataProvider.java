@@ -1,7 +1,5 @@
 package me.grishka.houseclub;
 
-
-
 import java.util.Objects;
 
 import me.grishka.houseclub.api.model.Channel;
